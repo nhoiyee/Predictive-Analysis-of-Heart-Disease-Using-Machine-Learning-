@@ -6,7 +6,7 @@ This is a simple and interactive **machine learning web app** built with **Strea
 
 ## 🚀 Demo
 
-🌐 Live App: 
+🌐 Live App: (https://fbx6xvrqumnjcpi7jqq4mj.streamlit.app/)
 
 ---
 

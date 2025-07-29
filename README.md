@@ -1,4 +1,4 @@
-# ❤❤❤ Heart Disease Prediction App ❤❤❤
+# ❤ Heart Disease Prediction App ❤
 
 This is a simple and interactive **machine learning web app** built with **Streamlit** that predicts the likelihood of a person having heart disease based on medical input features.
 

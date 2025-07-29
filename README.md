@@ -6,7 +6,7 @@ This is a simple and interactive **machine learning web app** built with **Strea
 
 ## 🚀 Demo
 
-🌐 Live App: [Streamlit Sharing](https://fbx6xvrqumnjcpi7jqq4mj.streamlit.app/)
+🌐 Live App: https://fbx6xvrqumnjcpi7jqq4mj.streamlit.app/
 
 ---
 
@@ -30,4 +30,4 @@ This is a simple and interactive **machine learning web app** built with **Strea
 - Evaluation Metrics:
   - Accuracy, Precision, Recall, F1 Score, ROC AUC
 - Final model selected: **Random Forest** (tuned with GridSearchCV)
-- [Streamlit Sharing](https://streamlit.io/cloud)
+- Streamlit Sharing: https://streamlit.io/cloud

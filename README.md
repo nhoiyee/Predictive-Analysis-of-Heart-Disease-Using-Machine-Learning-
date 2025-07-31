@@ -8,6 +8,8 @@ This is a simple and interactive **machine learning web app** built with **Strea
 
 🌐 Live App: https://fbx6xvrqumnjcpi7jqq4mj.streamlit.app/
 
+🌐 Video walkthrough: https://jumpshare.com/share/B9bmFdGpwiQucE13On2Z?b=6wRzdCQqHT9tYpNpJ5SE (download for more clear quality)
+
 ---
 
 ## 📊 Features
